@@ -1,0 +1,110 @@
+[33mcommit 53ad55105c4b862f760adab1d9b4379d8e5c6e23[m[33m ([m[1;36mHEAD -> [m[1;32mdeveloper2[m[33m, [m[1;31morigin/developer2[m[33m)[m
+Author: Михаил <Mikevlg34@yandex.ru>
+Date:   Sun Apr 25 00:46:06 2021 +0300
+
+    Finish
+
+[33mcommit cb260765d65dfc49cc97eee4008a39b928cf07ff[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Sun Apr 25 00:01:07 2021 +0300
+
+    Франкинштейн =)
+
+[33mcommit 32f78ce7862cbf3040776eb596095a998b23b52a[m
+Merge: 1264680 558be47
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Sat Apr 24 22:52:55 2021 +0300
+
+    Merge remote-tracking branch 'origin/developer2' into test
+    
+    # Conflicts:
+    #       api_yamdb/settings.py
+    #       api_yamdb/urls.py
+
+[33mcommit 126468049787ca5df513ccfe33d8a18c335ee332[m
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Sat Apr 24 22:50:07 2021 +0300
+
+    merge with sergey
+
+[33mcommit 785d102105a2f3e48b32cf28d0521ded1706f9a9[m
+Merge: 4c58d8f 4caf3d9
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Sat Apr 24 22:44:25 2021 +0300
+
+    Merge remote-tracking branch 'origin/Sergey' into test
+    
+    # Conflicts:
+    #       api_yamdb/settings.py
+
+[33mcommit 4c58d8ffc2f7f42ce1748613a49505e66fd15b7c[m
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Sat Apr 24 22:42:44 2021 +0300
+
+    add api app
+
+[33mcommit 89dab898c4ba1c76712b6a6121e66e7d84ca9c22[m[33m ([m[1;31morigin/slava[m[33m)[m
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Sat Apr 24 22:38:22 2021 +0300
+
+    done: views.py
+
+[33mcommit 558be47c34d03af9ccc6f860aa23a4947f28357c[m
+Author: Михаил <Mikevlg34@yandex.ru>
+Date:   Sat Apr 24 22:02:56 2021 +0300
+
+    Second commit
+
+[33mcommit 4caf3d91de5d857325ed27c947c3ecaf33998066[m
+Author: Сергей <gnom213@yandex.ru>
+Date:   Sat Apr 24 21:59:36 2021 +0400
+
+    pagination
+
+[33mcommit 1b52f67952f71a2b4f05b06376b0b376c11d975b[m
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Fri Apr 23 22:32:39 2021 +0300
+
+    done: Users - serializers.py
+
+[33mcommit ecb3725b0745f59f4b26933b0b16cc214c81bf8e[m
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Fri Apr 23 19:56:00 2021 +0300
+
+    done: Users - permissions.py
+
+[33mcommit b9c426ca1ae62c28834e80a11874741b33ec262f[m
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Fri Apr 23 19:11:58 2021 +0300
+
+    done: urls-main and urls-app
+
+[33mcommit 9ffd747b541f7d291d2b34bc422aeabf79c42136[m
+Author: Вячеслав <lass.tx@yandex.ru>
+Date:   Fri Apr 23 18:39:36 2021 +0300
+
+    done: settings.py, models.py, admin.py
+
+[33mcommit 479db287c9dad25bfccc8da93bea4a4f210f29f5[m
+Author: Сергей <gnom213@yandex.ru>
+Date:   Fri Apr 23 17:46:52 2021 +0400
+
+    serializers 1
+
+[33mcommit 0b69d907c266105ccee79296d45f0b264d1405fe[m
+Author: Михаил <Mikevlg34@yandex.ru>
+Date:   Thu Apr 22 23:18:08 2021 +0300
+
+    First commit
+
+[33mcommit 41469b2a5f81220fade7078bd70461187d31481f[m[33m ([m[1;32mSergey[m[33m)[m
+Author: Сергей <gnom213@yandex.ru>
+Date:   Wed Apr 21 22:17:55 2021 +0400
+
+    error usermodel
+
+[33mcommit 666ce41c0279ce71ef06f984eb492dbf402e7e78[m[33m ([m[1;31morigin/release[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: mrvinil <olan2061@mail.ru>
+Date:   Mon Apr 19 13:05:12 2021 +0300
+
+    Initial commit
